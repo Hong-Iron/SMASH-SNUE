@@ -1,0 +1,95 @@
+{
+  "code": "SNUE",
+  "title": "SMASH SNUE",
+  "school": "서울교대",
+  "fullName": "서울교육대학교",
+  "campusName": "서울교육대학교",
+  "tagline": "서울교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "서울교육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 서울교육대학교 3D 화면과 SMASH SNUE 제목",
+  "url": "https://hong-iron.github.io/SMASH-SNUE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 228171769
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.4898079,
+        127.018307
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 건물대장에 윤곽만 있고, 사진에서는 흙바닥 테니스장이라 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        37.4900801,
+        127.0178861
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 사진에서는 도서관 옆 주차장에 차만 서 있고 건물이 없다."
+    },
+    {
+      "at": [
+        37.4898125,
+        127.0181553
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 테니스장 안의 빈 흙바닥이라 건물이 없다."
+    },
+    {
+      "at": [
+        37.4900265,
+        127.0156444
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 연구강의동 지하주차장의 윤곽으로 보이고, 땅 위에는 길과 주차된 차만 있다."
+    },
+    {
+      "at": [
+        37.4894215,
+        127.0175183
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 체육관과 기숙사 사이 담장 옆 자리인데, 사진에는 덤불만 보이고 지붕이 없다."
+    },
+    {
+      "at": [
+        37.4904343,
+        127.0154201
+      ],
+      "n": "화학관",
+      "why": "항공사진에 없음 — 건물대장의 옛 '화학관' 자리는 연구강의동 그늘 속 주차 공간이고, 학교 캠퍼스맵에도 이 건물이 없다."
+    }
+  ],
+  "look": {
+    "대학본부": {
+      "style": "stone",
+      "wall": "#a8a3a3",
+      "glass": "#45525a",
+      "frame": "#5d6367"
+    },
+    "연구강의동": {
+      "style": "brick",
+      "wall": "#9c7357",
+      "glass": "#2f3536",
+      "frame": "#3c3f3d"
+    },
+    "서록1관": {
+      "style": "dorm",
+      "wall": "#9a5e4f",
+      "glass": "#3e5368",
+      "frame": "#c9cfd6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
